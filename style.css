@@ -1,0 +1,13 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.navbar{
+	margin :0 15px;
+	font-size: large;
+	font-weight: 600;
+}
+
+.card-section{
+	margin: 40px;
+}
